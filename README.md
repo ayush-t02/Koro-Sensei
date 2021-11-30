@@ -1,5 +1,6 @@
 # Koro-Sensei
 
-I tried to make the face of a character using JavaFX. 
+I made the face of an anime character using JavaFX. 
 
-![image](https://user-images.githubusercontent.com/75429660/143749944-79381d02-7583-420d-8f15-6eaa762a096c.png)
+![image](https://user-images.githubusercontent.com/75429660/144027254-d059f8c5-dfcc-434e-91bd-6229754f534a.png)
+
